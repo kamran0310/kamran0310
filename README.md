@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Kamran Aqeel
-- 👀 I’m a data scientist and a blockchain enthusiast.
-- 🌱 I’m currently learning data science, machine learning and data engineering.
-- 💞️ I’m looking to collaborate with data science and machine learning community.
+- 🌱 I'm into MLOps and Data engineering.
 - 📫 I can be reached via kamranaqeeltechie@gmail.com. 
 
 <img src = "https://github-readme-stats.vercel.app/api?username=kamran0310&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
